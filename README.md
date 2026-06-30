@@ -110,7 +110,7 @@ This is an individual project developed independently as part of full-stack deve
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muskan832&label=Profile%20views&color=0e75b6&style=flat)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=muskan832&theme=radical&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=muskan832&theme=radical&no-frame=true&margin-w=10)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muskan832&theme=react-dark)
 
