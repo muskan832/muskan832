@@ -1,115 +1,87 @@
-<h1 data-importer="text" align="left">Hi there 👋, I'm Muskan</h1>
+# Hi there 👋, I'm Muskan
 
-###
+### 💻 Aspiring .NET Full Stack Developer | CSE Final Year Student
 
-<p data-importer="text" align="left">Computer Science Engineer | Final Year Student.</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 data-importer="text" align="left">About me</h2>
+- 🎓 Final year B.Tech CSE student  
+- 💻 Focused on .NET Full Stack Development  
+- 🧠 Strong interest in backend logic and problem solving  
+- 📚 Practicing DSA and SQL regularly  
+- 🏗️ Enjoy building real-world projects  
 
-###
+---
 
-<p data-importer="text" align="left">💻 Learning .NET Full Stack Development <br>🌱 Currently improving Data Structures, SQL, and C#<br>🚀 Preparing for developer roles and placements<br>🎯 Goal: Become a .NET Full Stack Developer at a leading company<br>📚 Solving SQL and DSA problems regularly<br>⚡ Interested in Web Development and Software Engineering</p>
+## 🛠 Tech Stack
 
-###
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h2 data-importer="text" align="left">Skills</h2>
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-###
+### Database
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-###
+---
 
-<h1 data-importer="text" align="left">📈 Currently Learning</h1>
+## 📌 Projects
 
-###
+### 🎭 Face Recognition Attendance System
+- Built an automated attendance system using face recognition  
+- Detects 30–40 students in real-time  
+- Stores attendance data in MySQL database  
+- Reduces manual effort and errors  
 
-<p data-importer="text" align="left">ASP.NET<br>.NET Core<br>Data Structures & Algorithms<br>System Design Basics</p>
+---
 
-###
+### 🏙️ UrbanMind – Smart City Platform
+- ASP.NET Core Web API based backend system  
+- Designed SQL Server database structure  
+- Currently under development  
+- Focused on urban planning and digital city data management  
 
-<h3 data-importer="text" align="left">📫 Connect with me</h3>
+---
 
-###
+## 🏆 Achievements
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/muskan-k-6567632a6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/muskan832" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-  </a>
-</div>
+- Built real-time face recognition attendance system  
+- Developed multiple full-stack academic projects  
+- Practicing SQL problem-solving and DSA regularly  
+- Strong focus on backend development using .NET  
 
-###
+---
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+## 📊 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan832&show_icons=true&theme=radical)
 
-<br clear="both">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan832&layout=compact&theme=radical)
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskan832&theme=radical)
 
-###
+---
 
-<p data-importer="text" align="left"></p>
+## 📫 Connect With Me
 
-###
+- 💼 LinkedIn: YOUR_LINKEDIN_URL  
+- 💻 GitHub: https://github.com/muskan832  
+- 🧩 LeetCode: YOUR_LEETCODE_URL  
 
-<p data-importer="text" align="left"></p>
+---
 
-###
+## ⚡ Closing Line
 
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 From ideas to code — building real-world solutions.
