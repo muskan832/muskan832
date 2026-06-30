@@ -87,8 +87,6 @@ This is an individual project developed independently as part of full-stack deve
 
 
 ## ** Hobbies**  
- 
-- ** 🎯Hobbies:** 
 
 - Coding & Web Development  
 - Problem Solving  
