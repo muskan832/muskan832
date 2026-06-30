@@ -30,15 +30,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-### 🌐 Expertise  
-
-- Website Development  
-- Web Application Development  
-- Hosting & Deployment  
-- Responsive UI Design  
-- Frontend Development with Basic Backend Integration  
-
----
 
 ## 💼 Experience  
 
@@ -117,10 +108,6 @@ This is an individual project developed independently as part of full-stack deve
 
 ## **📊 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan832&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan832&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskan832&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muskan832&label=Profile%20views&color=0e75b6&style=flat)
@@ -138,4 +125,4 @@ This is an individual project developed independently as part of full-stack deve
 
 ---
 
-**🚀 From ideas to code — building real-world solutions.**
+**                                   🚀 From ideas to code — building real-world solutions.**
